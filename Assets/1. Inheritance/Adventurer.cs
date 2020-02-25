@@ -17,7 +17,7 @@ public class Adventurer : MonoBehaviour
 
     public string adventurerName = "Default Adventurer";
     public float movementSpeed = 5;
-    public int health = 100;
+    public float health = 100;
     public int armour = 10;
     public string weapon = "Fists";
 
