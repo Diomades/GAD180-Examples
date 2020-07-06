@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- * This first line means the Vehicle class inherits from MonoBehaviour.
+ * This first line means the Adventurer class inherits from MonoBehaviour.
  * We want to keep this, as MonoBehavious allows us to attach scripts to Game Objects in Unity.
  * We could delete the ": MonoBehaviour" part here if we didn't care about attaching to Game Objects.
  */
